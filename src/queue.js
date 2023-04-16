@@ -41,6 +41,7 @@ class Queue {
     if (!this.head) {
       this.tail = null
     }
+
     return value
   }
 }
